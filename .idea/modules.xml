@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hornet-ticket.iml" filepath="$PROJECT_DIR$/hornet-ticket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/hornet-ticket-api.iml" filepath="$PROJECT_DIR$/api/hornet-ticket-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/impl/hornet-ticket-impl.iml" filepath="$PROJECT_DIR$/impl/hornet-ticket-impl.iml" />
+    </modules>
+  </component>
+</project>
